@@ -28,7 +28,7 @@
 
   ## Flochart
   
-  ![FlowChart](https://github.com/HarshitTak/Test/blob/main/WhatsApp%20Image%202023-10-25%20at%2010.54.43%20PM.jpeg)
+  ![FlowChart](https://github.com/HarshitTak/ESLab23_ee23mtG14/blob/main/WhatsApp%20Image%202023-10-25%20at%2010.54.43%20PM.jpeg)
 
 
   ## Psudocode
